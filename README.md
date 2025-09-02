@@ -20,8 +20,14 @@ This dashboard consolidates essential HR insights—demographics, training analy
 ---
 
 ## Screenshots
-
+ **Workforce Overview**
 ![Workforce Overview Dashboard](HR_Dashboard_Photos/HR_Analytics_2025_08.png)
+
+**Engagement & Training**
+![Engagement & Training Dashboard](HR_Dashboard_Photos/HR_Learning_Development_Metrics_2025_08.png)
+
+**Performance & Retention**
+![Performance & Retention Dashboard](HR_Dashboard_Photos/HR_Stability_Insights_2025_08.png)
 
 ---
 
