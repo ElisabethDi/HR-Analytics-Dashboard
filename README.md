@@ -35,7 +35,7 @@ This dashboard consolidates essential HR insights—demographics, training analy
 
 The latest version of the **macro-enabled** Excel dashboard is available here:
 
-[**Download HR Analytics Dashboard Workbook (.xlsm)**](link-to-your-file.xlsm)
+[![Download HR Analytics Dashboard](https://img.shields.io/badge/Download-HR%20Analytics%20Dashboard-blue?style=for-the-badge)](https://github.com/ElisabethDi/HR-Analytics-Dashboard/raw/main/HR_Dashboard.xlsm)
 
 ---
 
