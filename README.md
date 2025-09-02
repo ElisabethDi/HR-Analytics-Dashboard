@@ -19,13 +19,6 @@ This dashboard consolidates essential HR insights—demographics, training analy
 
 ---
 
-## Screenshots
-
-![Workforce Overview Dashboard](HR-Dashboard_Photos/HR_Analytics 2025-08.png)
-![Engagement & Training Dashboard](HR-Dashboard_Photos/HR_Learning_Development_Metrics 2025-08.png)
-![Performance & Retention Dashboard](HR-Dashboard_Photos/HR_Stability_Insights_2025-08.png)
-
-
 ##  Download
 
 The latest version of the **macro-enabled** Excel dashboard is available here:
