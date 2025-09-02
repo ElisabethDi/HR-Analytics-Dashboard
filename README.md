@@ -19,6 +19,12 @@ This dashboard consolidates essential HR insights—demographics, training analy
 
 ---
 
+## Screenshots
+
+![Workforce Overview Dashboard](HR_Dashboard_Photos/HR_Analytics_2025_08.png)
+
+---
+
 ##  Download
 
 The latest version of the **macro-enabled** Excel dashboard is available here:
